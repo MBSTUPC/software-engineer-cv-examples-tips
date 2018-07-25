@@ -11,10 +11,10 @@ You are a Computer Science / Information Technology graduate who -
 * Not getting any calls for job interview.
 
 
-## Example CVs (work in progress!)
+## Example CVs
 
-* Example1
-* Example2
+* https://docs.google.com/document/d/1Zl5Z3C23WyJ0h_yl_idoP2jnigZLYmPApDDqQ_d9JaE/edit?usp=sharing[Example1]
+* https://docs.google.com/document/d/1E8q9ySxE5mQcVoINa-Rxrw-_Hus0m092VNLxjDGV2PE/edit?usp=sharing[Example2]
 
 
 ## Contribute
