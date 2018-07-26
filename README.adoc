@@ -11,6 +11,10 @@ You are a Computer Science / Information Technology graduate who -
 * Not getting any calls for job interview.
 
 
+## Before you prepare your CV
+
+Read tips about what you should do or shouldn't. Read more link:good-cv-bad-cv.adoc[here].
+
 ## Example CVs
 
 * https://docs.google.com/document/d/1Zl5Z3C23WyJ0h_yl_idoP2jnigZLYmPApDDqQ_d9JaE/edit?usp=sharing[Example1]
